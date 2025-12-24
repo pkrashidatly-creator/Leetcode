@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/pkrashidatly-creator/Leetcode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/pkrashidatly-creator/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
