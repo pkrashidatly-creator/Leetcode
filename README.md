@@ -36,12 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/pkrashidatly-creator/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/pkrashidatly-creator/Leetcode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
