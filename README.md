@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0415-add-strings) |
 | [2235-add-two-integers](https://github.com/pkrashidatly-creator/Leetcode/tree/master/2235-add-two-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pkrashidatly-creator/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
